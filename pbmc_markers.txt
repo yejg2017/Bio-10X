@@ -1,0 +1,57 @@
+>B cells
+expressed: CD19, MS4A1, CD79A, ACTN, ACTB
+references: https://www.ncbi.nlm.nih.gov/pubmed/?term=23688120, https://www.ncbi.nlm.nih.gov/pubmed/?term=21149806
+
+>T cells
+expressed: CD3D, CD3E, CD3G, PTPRC,CD56
+references: https://www.ncbi.nlm.nih.gov/pubmed/?term=1534551
+
+>CD4 T cells
+expressed: CD4, FOXP3, IL2RA, IL7R
+subtype of: T cells
+
+>CD8 T cells
+expressed: CD8A, CD8B
+subtype of: T cells
+
+>Activaed T celss
+expressed: CD25,CD69
+
+>Plasmacytoid Dendritic cells
+expressed: CD123,CD303,CD304
+
+>Dendritic cells
+expressed: CD1C,CD83,CD141,CD209
+
+>Platelets resting
+expressed: CD42B
+
+>Platelets active
+expressed: CD62P
+
+>Naural Killer cells
+expressed: CD3,CD16,CD56
+
+>Hematopoietic Stem cell
+expressed: CD34,CD90
+
+>Macrophage
+expressed: CD11B,CD68,CD163
+
+>Monocyte
+expressed: CD14,CD16,CD64
+
+>Plasma cells
+expressed: CD138
+
+>Red Blood cells
+expressed: CD235A
+
+>Neutrophils
+expressed: CD15,CD16,Cd49D
+
+>Basophils
+expressed: CD117,CD123,CD203C
+
+>Eosinophils
+expressed: CD11B,CD193,SIGLEC-8
